@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Badminton_Racket_Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|c:\\badminton_racket_shop\\badminton_racket_shop\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\staffmn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\staffmn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\customermn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\customermn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\customermn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\customermn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\staffmn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\staffmn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\database_connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\database_connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\items.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\items.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\importmn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\importmn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\warehouse form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\warehouse form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HelmetShop||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\staffform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\staffform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\importmn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\importmn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\customermn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\customermn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\changepass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\changepass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\ad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\ad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\warehouse form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\warehouse form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\staffmn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\staffmn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\warehouse form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\warehouse form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|C:\\Badminton_Racket_Shop\\badminton_racket_shop\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8521A4B-F470-474B-93E7-0AAA95BC9360}|Badminton_Racket_Shop\\HelmetShop.csproj|solutionrelative:badminton_racket_shop\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffMN.cs [Design]",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffMN.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\StaffMN.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffMN.cs [Design]",
+              "RelativeToolTip": "..\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffMN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:05:51.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerMN.cs [Design]",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\CustomerMN.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\CustomerMN.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\CustomerMN.cs [Design]",
+              "RelativeToolTip": "..\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\CustomerMN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:03:05.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerMN.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\CustomerMN.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\CustomerMN.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\CustomerMN.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\CustomerMN.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAQwHsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:22:59.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\History.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\History.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\History.cs [Design]",
+              "RelativeToolTip": "..\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:14:11.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\History.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\History.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\History.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\History.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:17:30.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Items.cs [Design]",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Items.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\Items.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Items.cs [Design]",
+              "RelativeToolTip": "Badminton_Racket_Shop\\Items.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:57:05.744Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Items.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\Items.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Items.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\Items.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAH0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:27:44.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StaffMN.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffMN.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\StaffMN.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffMN.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\StaffMN.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAAALUBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:05:55.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaffForm.cs [Design]",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffForm.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\StaffForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffForm.cs [Design]",
+              "RelativeToolTip": "..\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:10:13.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Database_ConnectionString.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Database_ConnectionString.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\Database_ConnectionString.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Database_ConnectionString.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\Database_ConnectionString.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:20:55.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Warehouse Form.cs [Design]",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Warehouse Form.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\Warehouse Form.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Warehouse Form.cs [Design]",
+              "RelativeToolTip": "..\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Warehouse Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:32:55.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Items.Designer.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Items.Designer.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\Items.Designer.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Items.Designer.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\Items.Designer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAArwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:55:41.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Login.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\Login.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Login.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\Login.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:01:53.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Login.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\Login.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Login.cs [Design]",
+              "RelativeToolTip": "..\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:53:15.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImportMN.cs [Design]",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ImportMN.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\ImportMN.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ImportMN.cs [Design]",
+              "RelativeToolTip": "..\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ImportMN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:08:04.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChangePass.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ChangePass.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\ChangePass.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ChangePass.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\ChangePass.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:19:02.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChangePass.cs [Design]",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ChangePass.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\ChangePass.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ChangePass.cs [Design]",
+              "RelativeToolTip": "..\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ChangePass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:19:00.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AD.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\AD.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\AD.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\AD.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\AD.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:24:29.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AD.cs [Design]",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\AD.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\AD.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\AD.cs [Design]",
+              "RelativeToolTip": "..\\Users\\PC\\Documents\\C#\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\AD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:40:09.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StaffForm.Designer.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffForm.Designer.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\StaffForm.Designer.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffForm.Designer.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\StaffForm.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAArwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:55:13.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HelmetShop",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\HelmetShop.csproj",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\HelmetShop.csproj",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\HelmetShop.csproj",
+              "RelativeToolTip": "Badminton_Racket_Shop\\HelmetShop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-08T15:59:41.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\Login.Designer.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Login.Designer.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\Login.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAArwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:57:08.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ImportMN.Designer.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ImportMN.Designer.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\ImportMN.Designer.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ImportMN.Designer.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\ImportMN.Designer.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAArwPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:57:01.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerMN.Designer.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\CustomerMN.Designer.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\CustomerMN.Designer.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\CustomerMN.Designer.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\CustomerMN.Designer.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAArwPoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:56:51.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChangePass.Designer.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ChangePass.Designer.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\ChangePass.Designer.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\ChangePass.Designer.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\ChangePass.Designer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAArwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:56:43.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AD.Designer.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\AD.Designer.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\AD.Designer.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\AD.Designer.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\AD.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAArwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:56:35.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Warehouse Form.Designer.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Warehouse Form.Designer.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\Warehouse Form.Designer.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Warehouse Form.Designer.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\Warehouse Form.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAArwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:56:29.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StaffMN.Designer.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffMN.Designer.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\StaffMN.Designer.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffMN.Designer.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\StaffMN.Designer.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAArwEwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:56:16.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\Program.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Program.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:26:47.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StaffForm.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffForm.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\StaffForm.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\StaffForm.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\StaffForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:14:31.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Warehouse Form.cs",
+              "DocumentMoniker": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Warehouse Form.cs",
+              "RelativeDocumentMoniker": "Badminton_Racket_Shop\\Warehouse Form.cs",
+              "ToolTip": "C:\\Badminton_Racket_Shop\\Badminton_Racket_Shop\\Warehouse Form.cs",
+              "RelativeToolTip": "Badminton_Racket_Shop\\Warehouse Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:34:08.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
